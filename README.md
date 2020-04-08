@@ -1,5 +1,11 @@
 # chat_app
 
+## app set up
+
+This project uses Google Firebase as a service.
+Create a Google Firebase account and register a project with it
+Follow the instructions on it and add the required files to the project to let it run
+
 A new Flutter project.
 
 ## Getting Started
